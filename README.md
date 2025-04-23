@@ -1,4 +1,4 @@
-## Hi there 👋
+# I'm yomi 🐢
 
 ## 👁️‍🗨️ GitHub Status
 
@@ -6,6 +6,17 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiger121005&layout=compact&count_private=true&show_icons=true&theme=transparent&&hide=cmake,c%2B%2B,shaderlab,c%23,scss,html,css" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tiger121005&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
+
+## 🦾 Tech I often use
+
+[![My Skills](https://skillicons.dev/icons?i=swift,nextjs,kotlin&perline=)](https://skillicons.dev)
+
+## Current Activity
+
+- Meidaisai Comittee
+- CA Tech Lounge
+- Life is Tech!
+
 
 <!--
 **tiger121005/tiger121005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
