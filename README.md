@@ -3,8 +3,8 @@
 ## 👁️‍🗨️ GitHub Status
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiger121005&layout=compact&count_private=true&show_icons=true&theme=transparent&&hide=cmake,c%2B%2B,shaderlab,c%23,scss,html,css" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tiger121005&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomi-t&layout=compact&count_private=true&show_icons=true&theme=transparent&&hide=cmake,c%2B%2B,shaderlab,c%23,scss,html,css" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yomi-t&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
 
 ## 🦾 Tech I often use
